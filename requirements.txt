@@ -1,0 +1,6 @@
+Django==4.2
+djangorestframework==3.14.0  # For building APIs
+django-cors-headers==3.14.0  # For handling CORS
+psycopg2-binary==2.9.6  # PostgreSQL adapter
+gunicorn==20.1.0  # WSGI HTTP Server for UNIX
+whitenoise==6.4.0  # Simplified static file serving
